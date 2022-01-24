@@ -15,7 +15,7 @@ import java.util.logging.Logger;
 
 /**
  *
- * @author Taufik Yahya
+ * @author Dirga Astya W
  */
 public class Option extends javax.swing.JFrame {
 

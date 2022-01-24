@@ -12,7 +12,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Taufik Yahya
+ * @author Dirga Astya W
  */
 public class Home extends javax.swing.JFrame {
 

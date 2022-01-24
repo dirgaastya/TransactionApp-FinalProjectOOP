@@ -8,7 +8,7 @@ import java.sql.*;
 
 /**
  *
- * @author Taufik Yahya
+ * @author Dirga Astya W
  */
 public class FinalProjectOOP {
 

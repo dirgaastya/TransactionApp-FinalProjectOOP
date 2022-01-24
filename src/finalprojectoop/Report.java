@@ -15,7 +15,7 @@ import javax.swing.table.DefaultTableModel;
 
 /**
  *
- * @author Taufik Yahya
+ * @author Dirga Astya W
  */
 public class Report extends javax.swing.JFrame {
 

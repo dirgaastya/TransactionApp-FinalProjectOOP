@@ -13,7 +13,7 @@ import java.util.logging.Logger;
 import javax.swing.JOptionPane;
 /**
  *
- * @author Taufik Yahya
+ * @author Dirga Astya W
  */
 public class TransactionDetails extends javax.swing.JFrame {
     /**

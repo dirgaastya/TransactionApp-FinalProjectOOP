@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Taufik Yahya
+ * @author Dirga Astya W
  */
 public class connect {
     private static  Connection connect;
